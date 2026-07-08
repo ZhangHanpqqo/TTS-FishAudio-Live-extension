@@ -2,6 +2,8 @@
 
 This Ableton Live extension that turns typed text or a dropped `.txt` file into generated audio using Fish Audio(https://fish.audio/).
 
+![Fish Audio extension screenshot](Fish-audio-extension.png)
+
 ## What You Need
 
 - Ableton Live with extension support.
